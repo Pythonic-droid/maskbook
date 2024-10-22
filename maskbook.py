@@ -10,8 +10,6 @@ import threading
 import time
 import random
 from datetime import datetime, timedelta
-from watchdog.observers import Observer
-from watchdog.events import FileSystemEventHandler
 import textwrap
 from textwrap import wrap
 from datetime import datetime
